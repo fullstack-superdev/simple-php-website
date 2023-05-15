@@ -23,8 +23,6 @@ The project covers these programming concepts:
  * Pretty links *(/about) with fallback to query string (?page=about)*
  * Basic example of separation of concerns *(functionality, template, content)*
 
-If you have any questions or recommendations for the project, please [create an issue](https://github.com/banago/simple-php-website/issues/new) or hit me up on Twitter [@banago](https://twitter.com/banago).
-
 > To help you take your knowledge of PHP to the next level, I've personally hunt down what I deem to be the best introductory course on PHP out there. I wish this course existed when I started learing PHP. Check it out on Udemy: [PHP for Beginners Course](https://click.linksynergy.com/link?id=jTy10g8O/M8&offerid=507388.1576856&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fphp-for-beginners-%2F).
 
 ## License
